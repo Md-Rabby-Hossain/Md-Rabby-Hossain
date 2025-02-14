@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there! 👋 I'm Golam Rabby  
 
-<!--
-**Md-Rabby-Hossain/Md-Rabby-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Electrical & Electronic Engineering (EEE) student @ KUET  
+🔬 Passionate about IoT, Machine Learning & Embedded Systems  
+📊 Exploring Data Analytics & Algorithm Design  
+🛠️ Languages & Tools: C | C++ | Python   
+🚀 Built a drone from scratch & love hands-on projects  
+✍️ Aspiring writer & tech enthusiast  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:  
+- 🔹 [ESP32-based Tachometer]
+- 🔹 [Drone Build & Flight Controller]
+- 🔹 [Data Analytics with Python]
+- 🔹 [IR proxomity Sensor using IR led and Photodiode]
+- 🔹 [Build app using scratch code to control Led via ESP32]
+- 🔹 [Build 'Text-to-Speech' app from scratch code]
+- 🔹 [Temperature and Humidity monitering using DHT11 and ESP32] 
+📫 Let's Connect:  
+[LinkedIn](www.linkedin.com/in/md-rabby-hossain-306b60324)
