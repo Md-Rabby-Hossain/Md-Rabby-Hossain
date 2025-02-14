@@ -14,6 +14,7 @@
 - 🔹 [IR proxomity Sensor using IR led and Photodiode]
 - 🔹 [Build app using scratch code to control Led via ESP32]
 - 🔹 [Build 'Text-to-Speech' app from scratch code]
-- 🔹 [Temperature and Humidity monitering using DHT11 and ESP32] 
+- 🔹 [Temperature and Humidity monitering using DHT11 and ESP32]
+  
 📫 Let's Connect:  
 [LinkedIn](www.linkedin.com/in/md-rabby-hossain-306b60324)
