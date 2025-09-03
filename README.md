@@ -1,18 +1,15 @@
 ### Hi there! 👋 I'm Golam Rabby  
 
-💡 Electrical & Electronic Engineering (EEE) student @ KUET  
+💡 2nd year Electrical & Electronic Engineering (EEE) student @ KUET  
 🔬 Passionate about IoT, Machine Learning & Embedded Systems  
 📊 Exploring Data Analytics & Data Visualization 
-🛠️ Languages & Tools: C | C++ | Python | Arduino
-🚀 Built a drone from scratch & love hands-on projects  
+🛠️ Languages & Tools: C | C++ | Python | Arduino  | SQL 
 ✍️ Book lover & tech enthusiast  
 
 
 📌 Projects:
 
 🔹 ESP32-based Tachometer
-
-🔹 Drone Build & Flight Controller
 
 🔹 Data Analytics and Visualization with Python
 
